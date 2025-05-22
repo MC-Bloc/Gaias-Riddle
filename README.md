@@ -1,2 +1,2 @@
 # Gaias-Riddle
-The Minecraft SMP's World File and Config folder
+The World File and Config folder for the Gaia's Riddle SMP
